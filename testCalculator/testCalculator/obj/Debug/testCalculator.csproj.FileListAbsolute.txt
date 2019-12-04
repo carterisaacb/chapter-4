@@ -1,0 +1,10 @@
+C:\Users\cb164339\Desktop\C-Sharp-Projects\Chapter3\testCalculator\testCalculator\bin\Debug\testCalculator.exe.config
+C:\Users\cb164339\Desktop\C-Sharp-Projects\Chapter3\testCalculator\testCalculator\bin\Debug\testCalculator.exe
+C:\Users\cb164339\Desktop\C-Sharp-Projects\Chapter3\testCalculator\testCalculator\bin\Debug\testCalculator.pdb
+C:\Users\cb164339\Desktop\C-Sharp-Projects\Chapter3\testCalculator\testCalculator\obj\Debug\testCalculator.csprojAssemblyReference.cache
+C:\Users\cb164339\Desktop\C-Sharp-Projects\Chapter3\testCalculator\testCalculator\obj\Debug\testCalculator.Form1.resources
+C:\Users\cb164339\Desktop\C-Sharp-Projects\Chapter3\testCalculator\testCalculator\obj\Debug\testCalculator.Properties.Resources.resources
+C:\Users\cb164339\Desktop\C-Sharp-Projects\Chapter3\testCalculator\testCalculator\obj\Debug\testCalculator.csproj.GenerateResource.cache
+C:\Users\cb164339\Desktop\C-Sharp-Projects\Chapter3\testCalculator\testCalculator\obj\Debug\testCalculator.csproj.CoreCompileInputs.cache
+C:\Users\cb164339\Desktop\C-Sharp-Projects\Chapter3\testCalculator\testCalculator\obj\Debug\testCalculator.exe
+C:\Users\cb164339\Desktop\C-Sharp-Projects\Chapter3\testCalculator\testCalculator\obj\Debug\testCalculator.pdb
